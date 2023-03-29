@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymart A. Vergara</h1>
 <h3 align="center">A passionate Web developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imat19" alt="imat19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imaaatl" target="blank"><img src="https://img.shields.io/twitter/follow/imaaatl?logo=twitter&style=for-the-badge" alt="imaaatl" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
